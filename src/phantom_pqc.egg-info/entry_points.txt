@@ -1,0 +1,2 @@
+[console_scripts]
+phantom = cli:main

@@ -1,0 +1,15 @@
+site_name: PHANTOM PQC
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Installation: install.md
+  - Schemes:
+    - LWE: lwe.md
+    - NTRU: ntru.md
+    - Kyber-lite: kyber.md
+    - Signatures: signatures.md
+  - Benchmarks: benchmarks.md
+  - Attacks: attacks.md
+  - API: api.md

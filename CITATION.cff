@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "P.H.A.N.T.O.M.: Post-Quantum Cryptography Toolkit"
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+version: 2.0.0
+doi: "10.5281/zenodo.xxxxxxx"
+date-released: 2025-08-29

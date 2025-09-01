@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+src/phantom_pqc.egg-info/PKG-INFO
+src/phantom_pqc.egg-info/SOURCES.txt
+src/phantom_pqc.egg-info/dependency_links.txt
+src/phantom_pqc.egg-info/entry_points.txt
+src/phantom_pqc.egg-info/requires.txt
+src/phantom_pqc.egg-info/top_level.txt

@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: phantom-pqc
+Version: 0.1.0
+Summary: Toy Post-Quantum Cryptography Schemes (LWE, NTRU, Kyber-lite, Signatures)
+Author: Your Name
+Requires-Python: >=3.9
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: sympy
+Requires-Dist: matplotlib
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: black; extra == "dev"
+Dynamic: author
+Dynamic: license-file
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

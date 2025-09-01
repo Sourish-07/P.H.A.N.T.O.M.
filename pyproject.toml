@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "phantom-pqc"
+version = "2.0.0"
+description = "Toy post-quantum cryptography toolkit"
+authors = [{name="Your Name", email="you@example.com"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/<your-username>/P.H.A.N.T.O.M."
+Documentation = "https://<your-username>.github.io/P.H.A.N.T.O.M/"
